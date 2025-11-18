@@ -31,31 +31,19 @@ Comandos para confirmar versiones:
 node -v
 npm -v
 
-shell
-Copiar código
-
 ## ⚙️ Instalacion
 
 ### 1️⃣ Clona el repositorio
 
 git clone https://github.com/J4nk37/Pagina-Web-Servicios.git
 
-shell
-Copiar código
-
 ### 2️⃣ Accede al proyecto
 
 cd Pagina-Web-Servicios
 
-shell
-Copiar código
-
 ### 3️⃣ Instala las dependencias
 
 npm install
-
-shell
-Copiar código
 
 ## ▶️ Scripts disponibles
 
@@ -63,26 +51,17 @@ Copiar código
 
 npm run dev
 
-nginx
-Copiar código
-
 URL por defecto: http://localhost:5173/
 
 ### 🏗️ Generar build de produccion
 
 npm run build
 
-markdown
-Copiar código
-
 Archivos finales en `build/`.
 
 ### 🔍 Previsualizar la build
 
 npm run preview
-
-shell
-Copiar código
 
 ## 📁 Estructura del proyecto
 
@@ -95,17 +74,11 @@ Pagina-Web-Servicios/
 ├─ package-lock.json
 └─ vite.config.ts
 
-shell
-Copiar código
-
 ## 🚀 Despliegue
 
 Tras crear la build:
 
 npm run build
-
-markdown
-Copiar código
 
 Sube el contenido de `build/` a:
 
