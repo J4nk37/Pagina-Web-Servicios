@@ -38,37 +38,38 @@ Clona el repositorio:
 git clone https://github.com/J4nk37/Pagina-Web-Servicios.git
 
 
-Accede al proyecto:
+-Accede al proyecto:
 
 cd Pagina-Web-Servicios
 
 
-Instala las dependencias:
+-Instala las dependencias:
 
 npm install
 
-Scripts disponibles
-npm run dev
-
-Inicia el servidor de desarrollo:
+-Scripts disponibles
 
 npm run dev
 
+-Inicia el servidor de desarrollo:
 
-Abre en el navegador la URL indicada (normalmente http://localhost:5173/).
+npm run dev
+
+
+-Abre en el navegador la URL indicada (normalmente http://localhost:5173/).
 
 npm run build
 
-Genera la version para produccion:
+-Genera la version para produccion:
 
 npm run build
 
 
-Los archivos finales se guardan en build/.
+-Los archivos finales se guardan en build/.
 
 npm run preview
 
-Sirve localmente la build generada:
+-Sirve localmente la build generada:
 
 npm run preview
 
@@ -85,12 +86,12 @@ Pagina-Web-Servicios/
 
 ## Despliegue
 
-Tras ejecutar:
+-Tras ejecutar:
 
 npm run build
 
 
-Los archivos de la carpeta build/ pueden subirse directamente a cualquier hosting estatico:
+**Los archivos de la carpeta build/ pueden subirse directamente a cualquier hosting estatico:**
 
 -GitHub Pages
 
