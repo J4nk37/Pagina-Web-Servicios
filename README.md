@@ -64,16 +64,23 @@ Archivos finales en `build/`.
 npm run preview
 
 ## 📁 Estructura del proyecto
-
+```
 Pagina-Web-Servicios/
-├─ build/
-├─ node_modules/
-├─ src/
-├─ index.html
-├─ package.json
-├─ package-lock.json
-└─ vite.config.ts
 
+├─ build/
+
+├─ node_modules/
+
+├─ src/
+
+├─ index.html
+
+├─ package.json
+
+├─ package-lock.json
+
+└─ vite.config.ts
+```
 ## 🚀 Despliegue
 
 Tras crear la build:
